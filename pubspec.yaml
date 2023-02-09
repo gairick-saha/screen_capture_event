@@ -8,6 +8,7 @@ environment:
   flutter: ">=2.8.0"
 
 dependencies:
+  universal_io: ^2.0.4
   flutter:
     sdk: flutter
 
